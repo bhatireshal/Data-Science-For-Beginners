@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education | Low scores During exams| Attendence/ Homework Comepletion |Excel sheets/ streadsheets via google forms filled by evaluator| drawing relationship between lassroom performance and scores |
 | Vaccination | | | | |
 | Productivity | | | | |
 
